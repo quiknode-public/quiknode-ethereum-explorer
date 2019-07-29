@@ -1,5 +1,5 @@
 # quiknode-ethereum-explorer
-Building Ethereum explorer using Quiknode
+Building Ethereum explorer using QuikNode
 
 Quiknode: http://quiknode.io
 
