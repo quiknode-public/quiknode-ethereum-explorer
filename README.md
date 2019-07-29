@@ -13,3 +13,7 @@ Quiknode: http://quiknode.io
 
 https://randomly-aware-seagull.quiknode.io/c98d1ff3-4fd8-4693-9336-99d797392dbd/I0uNrCPKwNbYg-M2SacQtg==/
 
+Newsletter - https://www.getrevue.co/profile/quiknode
+
+Blog - https://medium.com/quiknode
+
