@@ -17,3 +17,4 @@ Newsletter - https://www.getrevue.co/profile/quiknode
 
 Blog - https://medium.com/quiknode
 
+Slide Link - https://docs.google.com/presentation/d/1DN-3JCi32hY-91hnyHBVnOQM0t50iRC5rcPgyVJtPYo/edit?usp=sharing
