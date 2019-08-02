@@ -11,7 +11,20 @@ Quiknode: http://quiknode.io
 
 3- Add below link `var provider = ''; // Add your quiknode HTTP provider link here`
 
-https://randomly-aware-seagull.quiknode.io/c98d1ff3-4fd8-4693-9336-99d797392dbd/I0uNrCPKwNbYg-M2SacQtg==/
+## Mainnet Parity
+
+HttpProvider: https://randomly-aware-seagull.quiknode.io/c98d1ff3-4fd8-4693-9336-99d797392dbd/I0uNrCPKwNbYg-M2SacQtg==/
+
+WebSockets: wss://randomly-aware-seagull.quiknode.io/c98d1ff3-4fd8-4693-9336-99d797392dbd/I0uNrCPKwNbYg-M2SacQtg==/
+
+
+## Ropsten on Parity
+
+HttpProvider: https://lately-enjoyed-gazelle.quiknode.io/073c5893-f5d0-4ca0-9dc5-6c157f8df3d5/GNCBWcP1MCrEFFLofnOW2A==/
+
+WebSockets: wss://lately-enjoyed-gazelle.quiknode.io/073c5893-f5d0-4ca0-9dc5-6c157f8df3d5/GNCBWcP1MCrEFFLofnOW2A==/
+
+
 
 Newsletter - https://www.getrevue.co/profile/quiknode
 
